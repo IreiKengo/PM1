@@ -7,7 +7,9 @@ int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "Good Morning!\n";
-    std::cout << "Git hab\n";
+
+
+    std::cout << "プレイヤーの移動処理追加\n";
 
 }
 
