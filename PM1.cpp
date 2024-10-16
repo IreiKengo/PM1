@@ -7,7 +7,10 @@ int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "Good Morning!\n";
+    std::cout << "Git hab\n";
+
 }
+
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
 // プログラムのデバッグ: F5 または [デバッグ] > [デバッグの開始] メニュー
