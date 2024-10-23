@@ -10,6 +10,8 @@ int main()
 
     std::cout << "プルリクエストのテスト\n";
     std::cout << "ローカルで変更\n";
+    std::cout << "ローカルで変更二回目\n";
+
  
     std::cout << "リモートで編集\n";
 
