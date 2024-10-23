@@ -14,6 +14,7 @@ int main()
     std::cout << "第三回\n";
     std::cout << "プルリクエストのテスト\n";
  
+    std::cout << "リモートで編集\n";
 
 
 }
