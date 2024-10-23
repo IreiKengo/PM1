@@ -14,6 +14,7 @@ int main()
 
  
     std::cout << "リモートで編集\n";
+std::cout << "リモートで編集二回目\n";
 
 
 }
