@@ -13,6 +13,8 @@ int main()
 
     std::cout << "第三回\n";
     std::cout << "プルリクエストのテスト\n";
+   
+    
     std::cout << "コンフリクト２のテスト\n";
 
 
