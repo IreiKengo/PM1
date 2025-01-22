@@ -7,16 +7,6 @@ int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "Good Morning!\n";
-
-    std::cout << "プルリクエストのテスト\n";
-    std::cout << "ローカルで変更\n";
-    std::cout << "ローカルで変更二回目\n";
-
- 
-    std::cout << "リモートで編集\n";
-std::cout << "リモートで編集二回目\n";
-
-
 }
 
 
