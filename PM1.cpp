@@ -8,16 +8,6 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "Good Morning!\n";
 
-
-    std::cout << "プレイヤーの移動処理追加\n";
-
-    std::cout << "第三回\n";
-    std::cout << "プルリクエストのテスト\n";
-   
-    
-    std::cout << "コンフリクトのテスト\n";
-
-
 }
 
 
