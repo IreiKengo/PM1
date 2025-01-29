@@ -12,7 +12,7 @@ int main()
     std::cout << "プルリクエストのテスト\n";
     std::cout << "ローカルで変更\n";
 
-    std::cout << "masterをローカルで変更！\n";
+    std::cout << "リモートで変更\n";
 }
 
 
