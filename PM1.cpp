@@ -7,6 +7,8 @@ int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "Good Morning!\n";
+
+    std::cout << "masterをリモートで変更\n";
 }
 
 
