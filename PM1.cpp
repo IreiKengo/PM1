@@ -8,10 +8,8 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "Good Morning!\n";
 
-
-
     std::cout << "プルリクエストのテスト\n";
-
+    std::cout << "ローカルで変更\n";
 
 }
 
